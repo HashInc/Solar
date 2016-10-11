@@ -207,7 +207,8 @@ footer a, footer a:link {
 </html>
 
 <?php
+include "dbcon.php";
  if ( !empty($_POST)) {
-   
+   $name = 
  }
 ?>
