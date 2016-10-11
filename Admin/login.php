@@ -189,7 +189,7 @@ footer a, footer a:link {
     <input type="password" name="password" required placeholder="Password" />
     <i class="fa fa-key"></i>
     <a href="passreset.php">Forgot your password?</a>
-    <button>
+    <button type="submit">
       <i class="spinner"></i>
       <span class="state">Log in</span>
     </button>
@@ -207,5 +207,7 @@ footer a, footer a:link {
 </html>
 
 <?php
-  
+ if ( !empty($_POST)) {
+   
+ }
 ?>
