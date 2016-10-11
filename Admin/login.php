@@ -14,7 +14,7 @@
       body {
   font-family: "Open Sans", sans-serif;
   height: 100vh;
-  background: url("http://i.imgur.com/HgflTDf.jpg") 50% fixed;
+  background: url("http://www.pixelstalk.net/wp-content/uploads/2016/06/Abstract-Wallpaper-HD-Free-Download.jpg") 50% fixed;
   background-size: cover;
 }
 
@@ -182,19 +182,19 @@ footer a, footer a:link {
   <body>
 
     <div class="wrapper">
-  <form class="login">
-    <p class="title">Log in</p>
-    <input type="text" placeholder="Username" autofocus/>
+  <form class="login" action="login.php" method="POST">
+    <p class="title" style="margin-left:30px;">Welcome Back Admin!</p>
+    <input type="text" name="name" placeholder="Username" required autofocus/>
     <i class="fa fa-user"></i>
-    <input type="password" placeholder="Password" />
+    <input type="password" name="password" required placeholder="Password" />
     <i class="fa fa-key"></i>
-    <a href="#">Forgot your password?</a>
+    <a href="passreset.php">Forgot your password?</a>
     <button>
       <i class="spinner"></i>
       <span class="state">Log in</span>
     </button>
   </form>
-  <footer><a target="blank" href="http://boudra.me/">boudra.me</a></footer>
+  <footer><a target="blank" href="http://hashinc.in/">Hash Include</a></footer>
   </p>
 </div>
     <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
@@ -205,3 +205,7 @@ footer a, footer a:link {
     
   </body>
 </html>
+
+<?php
+  
+?>

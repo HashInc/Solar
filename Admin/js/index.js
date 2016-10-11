@@ -9,7 +9,7 @@ $('.login').on('submit', function(e) {
   $state.html('Authenticating');
   setTimeout(function() {
     $this.addClass('ok');
-    $state.html('Welcome back!');
+    $state.html('Welcome back, Admin!');
     setTimeout(function() {
       $state.html('Log in');
       $this.removeClass('ok loading');
