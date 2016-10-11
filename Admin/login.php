@@ -199,8 +199,6 @@ footer a, footer a:link {
 </div>
     <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
 
-        <script src="js/index.js"></script>
-
     
     
   </body>
@@ -209,6 +207,14 @@ footer a, footer a:link {
 <?php
 include "dbcon.php";
  if ( !empty($_POST)) {
-   $name = 
+   $name = $_POST["name"];
+   $pass = $_POST["password"];
+
+   $sql1 = mysql_query("SELECT password from members where name = $name");
+   $num = mysql_num_rows($sql);
+   if($num == 1)
+   {
+     header("location:index.php")
+   }
  }
 ?>
