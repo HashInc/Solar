@@ -1,3 +1,6 @@
+<?php
+  session_start();
+?>
 <!DOCTYPE html>
 <html >
   <head>
@@ -178,7 +181,21 @@ footer a, footer a:link {
     
     
   </head>
+<?php
+include "dbcon.php";
+ if ( !empty($_POST)) {
+   $name = $_POST["name"];
+   $pass = $_POST["password"];
 
+   $sql1 = mysql_query("SELECT password from members where Name = '$name'");
+   $num = mysql_num_rows($sql1);
+   if($num == 1)
+   {
+     $_SESSION['admin'] = $name;
+     header("location:index.php");
+   }
+ }
+?>
   <body>
 
     <div class="wrapper">
@@ -203,18 +220,3 @@ footer a, footer a:link {
     
   </body>
 </html>
-
-<?php
-include "dbcon.php";
- if ( !empty($_POST)) {
-   $name = $_POST["name"];
-   $pass = $_POST["password"];
-
-   $sql1 = mysql_query("SELECT password from members where name = $name");
-   $num = mysql_num_rows($sql);
-   if($num == 1)
-   {
-     header("location:index.php")
-   }
- }
-?>
