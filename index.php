@@ -18,20 +18,33 @@
     <!-- SKIN COLORS -->
     <!-- Default color: BLUE -->
     <link rel="stylesheet" type="text/css" href="css/skin-colors/skin-default.css">
-    <!-- Color: GREEN -->
-    <!-- <link rel="stylesheet" type="text/css" href="css/skin-colors/skin-green.css"> -->
-    <!-- Color: GREY -->
-    <!-- <link rel="stylesheet" type="text/css" href="css/skin-colors/skin-grey.css"> -->
-    <!-- Color: ORANGE -->
-    <!-- <link rel="stylesheet" type="text/css" href="css/skin-colors/skin-orange.css"> -->
-    <!-- Color: PURPLE -->
-    <!-- <link rel="stylesheet" type="text/css" href="css/skin-colors/skin-purple.css"> -->
-    <!-- Color: RED -->
-    <!-- <link rel="stylesheet" type="text/css" href="css/skin-colors/skin-red.css"> -->
-    <!-- Color: TURQUOISE -->
-    <!-- <link rel="stylesheet" type="text/css" href="css/skin-colors/skin-turquoise.css"> -->
-    <!-- Color: YELLOW -->
-    <!-- <link rel="stylesheet" type="text/css" href="css/skin-colors/skin-yellow.css"> -->
+    <script src="js/jquery.min.js"></script>
+    <script>
+$(document).ready(function(){
+  // Add smooth scrolling to all links
+  $("a").on('click', function(event) {
+
+    // Make sure this.hash has a value before overriding default behavior
+    if (this.hash !== "") {
+      // Prevent default anchor click behavior
+      event.preventDefault();
+
+      // Store hash
+      var hash = this.hash;
+
+      // Using jQuery's animate() method to add smooth page scroll
+      // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
+      $('html, body').animate({
+        scrollTop: $(hash).offset().top
+      }, 800, function(){
+   
+        // Add hash (#) to URL when done scrolling (default click behavior)
+        window.location.hash = hash;
+      });
+    } // End if
+  });
+});
+</script>
 </head>
 <body class="skin_00aeef">
     <header class="mt-full-screen" data-scroll-index="0">
@@ -140,7 +153,7 @@
   
 
     <!-- ### Begin: JS Scripts ##################################################################### -->
-    <script src="js/jquery.min.js"></script>
+
     <script src="js/modernizr.custom.js"></script>
     <script src="js/classie.js"></script>
     <script src="js/jquery.form.js"></script>
