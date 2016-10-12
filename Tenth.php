@@ -34,7 +34,7 @@
                             <div class="post-name">
                                 <a href="blog.html">BUILDING BLOCKS – YORK’S PENSION PLAN</a>
                             </div>
-                            <div class="post-details">Auditorium Lago 09:00 to 12:00</div>
+                            <div class="post-details">Auditorium Lagoosss 09:00 to 12:00</div>
                         </div>
                         <div class="clearfix"></div>
                     </div>
