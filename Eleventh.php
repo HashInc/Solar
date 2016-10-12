@@ -1,4 +1,4 @@
-<section class="high-margin contact" data-scroll-index="6">
+<section class="high-margin contact" id="contact" data-scroll-index="6">
         <header class="section-header">
             <div class="container">
                 <div class="row">

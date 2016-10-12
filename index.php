@@ -83,7 +83,7 @@
                         <li class="item"><a href="#" data-scroll-nav="3">Team</a></li>
                         <li class="item"><a href="#" data-scroll-nav="4">Features</a></li>
                         <li class="item"><a href="blog.html">Blog</a></li>
-                        <li class="item"><a href="#" data-scroll-nav="6">Contact</a></li>
+                        <li class="item"><a href="#contact" data-scroll-nav="6">Contact</a></li>
                     </ul>
                 </div>
             </div>
