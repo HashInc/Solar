@@ -43,7 +43,7 @@ Team TAIYO ZEN has twenty five engineers with  the goal to  build and  race  a s
                             </div>
                         </div>
                         <div class="block-title">
-                            <p></p>
+                            <p>Genesis</p>
                         </div>
                         <div class="block-content">
                             <p>Won the <strong>Indi-Asian Solar Challenge</strong> championship.
