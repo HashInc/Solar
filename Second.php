@@ -2,7 +2,7 @@
         <header class="section-header">
             <div class="container">
                 <div class="row">
-                    <h1 class="section-title">Our <span>PORToFOLIO</span></h1>
+                    <h1 class="section-title">Our <span>PORTFOLIO</span></h1>
                     <div class="section-border"></div>
                     <p class="section-subtitle">A glimpse of work we’ve done for forward thinking brands and clients</p>
                 </div>

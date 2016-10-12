@@ -2,9 +2,9 @@
         <header class="section-header">
             <div class="container">
                 <div class="row">
-                    <h1 class="section-title">The Main Features of <span>Theme</span></h1>
+                    <h1 class="section-title">The Main Features of <span>Our Work</span></h1>
                     <div class="section-border"></div>
-                    <p class="section-subtitle">Lorem Ipsum has been the industry's standard dummy textt ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                    <p class="section-subtitle">Our goal is to make this project one of the most renowed projects in the history of Technological Development.</p>
                 </div>
             </div>
         </header>
@@ -24,10 +24,10 @@
                         </div>
                         <div class="col-md-9 col-md-offset-1">
                             <div class="block-title">
-                                <p>AMAZING LAYOUT with many feature</p>
+                                <p>AMAZING OUTLOOK with many FEATURES</p>
                             </div>
                             <div class="block-content">
-                                <p>Limitless. There are so many possibilities with TREND that even we got lost in it. And we are still improving it, so that our customers feel the power of the Touch Layout Builder.</p>
+                                <p>Limitless. There are so many possibilities with our solar veichle that even we got lost in it. And we are still improving it, so that our goal can be achieved and we can improve our skills and hence improve our project.</p>
                             </div>
                         </div>
                         <div class="clearfix"></div>
