@@ -80,19 +80,19 @@
                 </div>
                 <div class="clearfix"></div>
                 <div class="mt-spacer"></div>
-                <form id="contact_form" method="POST" action="php/contact_mail.php">
+                <form id="contact_form" method="POST" action="index.php">
                     <div class="col-md-4">
-                        <input type="text" name="user_name" class="form-control" placeholder="Your Name">
+                        <input type="text" name="name" class="form-control" placeholder="Your Name">
                     </div>
                     <div class="col-md-4">
-                        <input type="text" name="user_email" class="form-control" placeholder="Your Email">
+                        <input type="text" name="email" class="form-control" placeholder="Your Email">
                     </div>
                     <div class="col-md-4">
-                        <input type="text" name="user_subject" class="form-control" placeholder="Subject">
+                        <input type="text" name="subject" class="form-control" placeholder="Subject">
                     </div>
                     <div class="mt-half-spacer"></div>
                     <div class="col-md-12">
-                        <textarea class="form-control" placeholder="Your Message" rows="10" name="user_message"></textarea>
+                        <textarea class="form-control" placeholder="message" rows="10" name="user_message"></textarea>
                     </div>
                     <div class="mt-half-spacer"></div>
                     <div class="col-md-12">
