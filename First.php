@@ -24,7 +24,7 @@ Team TAIYO ZEN has twenty five engineers with  the goal to  build and  race  a s
                             </div>
                         </div>
                         <div class="block-title">
-                            <p>Year: 2014 - Our Beginning</p>
+                            <p>Inception</p>
                         </div>
                         <div class="block-content">
                             <p>TaiyoZen Team was founded in the year <strong>2014</strong>.
@@ -43,7 +43,7 @@ Team TAIYO ZEN has twenty five engineers with  the goal to  build and  race  a s
                             </div>
                         </div>
                         <div class="block-title">
-                            <p>Year : 2015</p>
+                            <p></p>
                         </div>
                         <div class="block-content">
                             <p>Won the <strong>Indi-Asian Solar Challenge</strong> championship.
@@ -70,11 +70,7 @@ Team TAIYO ZEN has twenty five engineers with  the goal to  build and  race  a s
                             <p>Won the championship for ELECTRA by SAE India.
                    				<br>Won the ESVC Championship
                   				 <br>Won the Best Endurance award ESVC
-                  				 <br>Runners up at Indo-Asian Solar Challenge
-                  				 <br>Runners up-Endurance at Indo-Asian Solar Challenge.
-                  				 <br>Invited for Global Exhibition Services(Noida) for green mobility 2016.
-								<strong><br> Team Lead </strong>: Ajeesh Varghese
-.</p>
+                  				 <br>Runners up at Indo-Asian Solar Challenge</p>
                         </div>
                     </div>
                 </div>
@@ -89,10 +85,12 @@ Team TAIYO ZEN has twenty five engineers with  the goal to  build and  race  a s
                             </div>
                         </div>
                         <div class="block-title">
-                            <p>App Development</p>
+                            <p>Development</p>
                         </div>
                         <div class="block-content">
-                            <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer.</p>
+                            <p>Runners up-Endurance at Indo-Asian Solar Challenge.
+                  				 <br>Invited for Global Exhibition Services(Noida) for green mobility 2016.
+								<strong><br> Team Lead </strong>: Ajeesh Varghese</p>
                         </div>
                     </div>
                 </div>

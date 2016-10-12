@@ -1,4 +1,4 @@
- <section class="high-margin price-table">
+<!-- <section class="high-margin price-table">
         <header class="section-header">
             <div class="container">
                 <div class="row">
@@ -125,3 +125,4 @@
             </div>
         </div>
     </section>
+-->
