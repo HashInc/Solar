@@ -56,13 +56,11 @@ $(document).ready(function(){
                 </div>
                 <div class="col-md-5 pull-right">
                     <div class="nav_search_holder">
-                        <div id="trend-search" class="trend-search">
-                            <form action="search.html">
+<form action="search.html">
                             
-                              <img src="images/HITS Logo-final.png" longdesc="http://www.hindustanuniv.ac.in">
+            <img src="images/HITS Logo-final.png" width="246" height="45" class="navbar-right" longdesc="http://www.hindustanuniv.ac.in">
 <input class="trend-search-submit" type="submit" value="">
-                            </form>
-                        </div>
+            </form>
                     </div>
                 </div>
             </div>
