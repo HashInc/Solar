@@ -56,8 +56,7 @@
             <div class="mt-height-centered">
                 <h1 class="mt-title mt-uppercase">Stand Out In The <span> Crowd</span></h1>
                 <p class="subtitle">Team - TaiyoZen</p>
-                <a href="" class="outline-button button">View Our Work</a>
-                <a href="" class="solid-button button">Get Started</a>
+                <a href="#about" class="outline-button button">About Taiyozen</a>
             </div>
         </div>      
     </header>

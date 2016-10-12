@@ -1,4 +1,4 @@
- <section class="services high-margin" data-scroll-index="1">
+ <section class="services high-margin" id="about" data-scroll-index="1">
         <header class="section-header">
             <div class="container">
                 <div class="row">
