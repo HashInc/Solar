@@ -40,7 +40,7 @@
                             <p>Phone number</p>
                         </div>
                         <div class="block-content">
-                            <p>+34 235 234 753<br>+38 3464 457 234</p>
+                            <p>+91-*********<br>+91-**********</p>
                         </div>
                     </div>
                 </div>
@@ -57,7 +57,7 @@
                             <p>Email</p>
                         </div>
                         <div class="block-content">
-                            <p>support@modeltheme.com<br>support@modeltheme.com</p>
+                            <p>samplemail@company.com<br>samplemail@company.com</p>
                         </div>
                     </div>
                 </div>
