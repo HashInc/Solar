@@ -102,8 +102,11 @@ Team TAIYO ZEN has twenty five engineers with  the goal to  build and  race  a s
         <div class="container">
             <div class="row">
                 <div class="col-md-6 text-right animateIn" data-animate="bounceInRight">
-                    <h2 class="right-border">Want to say or find <br>something <span class="theme-color">else</span>?</h2>
-                    <p>TREND has everything you need to build an awesome website for<br> you or your company, and the possibilities are just endlress. Let <br>TREND upgrade your business</p>
+                    <h2 class="right-border">About <br><span class="theme-color">Hindustan University</span></h2>
+                    <p>Hindustan College of Engineering, started in the year 1985, was conferred the "University Status" by University Grants Commission(UGC),Government of India, Under Section 3 of UGC Act 1956 from the academic year 2008-09 and under the name HITS (Hindustan Institute of Technology and Science).
+Today, Hindustan Institute of Technology and Science is one of the most sought after engineering Institutions in Tamil Nadu, reputed for its highly qualified and experienced faculty and excellent infrastructural facilities,
+Also Hindustan University is the first Institute in India to have a degree course in motorsports and have its own motorports club.
+</p>
                     <a href="blog.html" class="outline-button button mt-blue">Read More</a>
                 </div>
                 <div class="col-md-6 text-center animateIn" data-animate="bounceInLeft">
