@@ -1,4 +1,4 @@
-<section class="blog high-margin">
+<!-- <section class="blog high-margin">
         <header class="section-header">
             <div class="container">
                 <div class="row">
@@ -103,4 +103,4 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->

@@ -23,7 +23,7 @@
                             <p>Address</p>
                         </div>
                         <div class="block-content">
-                            <p>Hindustan University<br>Padur, Chennai, TN</p>
+                            <p>#1, Rajiv Gandhi Salai, Old Mahabalipuram Road,<br> Padur, Kelambakam, Chennai-603103</p>
                         </div>
                     </div>
                 </div>

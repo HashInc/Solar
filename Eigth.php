@@ -1,4 +1,4 @@
-<section class="statistics high-margin mt-blue">
+<!-- <section class="statistics high-margin mt-blue">
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
@@ -6,7 +6,7 @@
                         <div class="stats-head">                            
                             <p class="stat-number skill percentage" data-perc="3500">
                                 <i class="fa fa-lightbulb-o"></i>
-                                <span class="skill-count">3500</span>
+                                <span class="skill-count">1</span>
                             </p>
                         </div>
                         <div class="stats-content">
@@ -19,7 +19,7 @@
                         <div class="stats-head">                            
                             <p class="stat-number skill percentage" data-perc="50">
                                 <i class="fa fa-user"></i>
-                                <span class="skill-count">50</span>
+                                <span class="skill-count">25</span>
                             </p>
                         </div>
                         <div class="stats-content">
@@ -55,4 +55,4 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
