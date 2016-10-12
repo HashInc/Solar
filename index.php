@@ -58,7 +58,7 @@ $(document).ready(function(){
                     <div class="nav_search_holder">
 <form action="search.html">
                             
-            <img src="images/HITS Logo-final.png" width="246" height="45" class="navbar-right" longdesc="http://www.hindustanuniv.ac.in">
+            <img src="images/HITS Logo-final.png" width="246" height="42" class="navbar-right" longdesc="http://www.hindustanuniv.ac.in">
 <input class="trend-search-submit" type="submit" value="">
             </form>
                     </div>
