@@ -169,7 +169,52 @@
                                 <div class="portfolio-item">
                                     <div class="portfolio-triangle">
                                         <div class="content">
-                                            <img src="images/portfolio/5.jpg" alt="">
+                                            <img src="images/portfolio/11.jpg" alt="">
+                                            <div class="portfolio-hover text-center">
+                                                <i class="fa fa-plus-square-o"></i>
+                                                <p>Awesome Design</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+						<div class="col-md-2 social-media">
+                            <div class="portfolio-container">
+                                <div class="portfolio-item">
+                                    <div class="portfolio-triangle">
+                                        <div class="content">
+                                            <img src="images/portfolio/12.jpg" alt="">
+                                            <div class="portfolio-hover text-center">
+                                                <i class="fa fa-plus-square-o"></i>
+                                                <p>Awesome Design</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+						<div class="col-md-2 social-media">
+                            <div class="portfolio-container">
+                                <div class="portfolio-item">
+                                    <div class="portfolio-triangle">
+                                        <div class="content">
+                                            <img src="images/portfolio/13.jpg" alt="">
+                                            <div class="portfolio-hover text-center">
+                                                <i class="fa fa-plus-square-o"></i>
+                                                <p>Awesome Design</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+						<div class="col-md-2 social-media">
+                            <div class="portfolio-container">
+                                <div class="portfolio-item">
+                                    <div class="portfolio-triangle">
+                                        <div class="content">
+                                            <img src="images/portfolio/14.jpg" alt="">
                                             <div class="portfolio-hover text-center">
                                                 <i class="fa fa-plus-square-o"></i>
                                                 <p>Awesome Design</p>
