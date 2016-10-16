@@ -172,6 +172,7 @@ $(document).ready(function(){
     <script src='js/google-maps-v3.js'></script>
     <script src='js/jquery.mb.YTPlayer.min.js'></script>
     <script src="js/custom.js"></script>
+	<script src="js/modal.js"></script>
     <!-- ### End: JS Scripts ##################################################################### -->
 
     <a href="#" class="back-to-top">Top</a>

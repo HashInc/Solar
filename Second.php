@@ -9,6 +9,21 @@
             </div>
         </header>
 
+		<!-- Trigger the Modal -->
+<!-- <img id="myImg" src="1.jpg" alt="Trolltunga, Norway" width="300" height="200">
+
+<!-- The Modal -->
+<!--<div id="myModal" class="modal">
+
+  <!-- The Close Button -->
+ <!-- <span class="close" onclick="document.getElementById('myModal').style.display='none'">&times;</span>
+
+  <!-- Modal Content (The Image) -->
+ <!-- <img class="modal-content" id="img01">
+
+  <!-- Modal Caption (Image Text) -->
+ <!-- <div id="caption"></div>
+</div>  -->
         <div class="filter-container animateIn" data-animate="zoomIn">
             <div class="container" id="filter-nav">
                 <div class="row">
@@ -18,11 +33,14 @@
                                 <div class="portfolio-item">
                                     <div class="portfolio-triangle">
                                         <div class="content">
-                                            <img src="images/portfolio/1.jpg" alt="">
+                                            <img id="myImg" src="images/portfolio/1.jpg" alt="">
                                             <div class="portfolio-hover text-center">
-                                                <i class="fa fa-plus-square-o"></i>
-                                                <p>Awesome Design</p>
-                                            </div>
+												<div id="myModal" class="modal">
+													<span class="close" onclick="document.getElementById('myModal').style.display='none'">&times;</span>
+													<img class="modal-content" id="img01">
+													<div id="caption"></div>
+												</div>
+											</div>
                                         </div>                                      
                                     </div>
                                 </div>
