@@ -174,7 +174,7 @@ $(document).ready(function(){
     <script src="js/custom.js"></script>
     <!-- ### End: JS Scripts ##################################################################### -->
 
-    <a href="#0" class="back-to-top">Top</a>
+    <a href="#" class="back-to-top">Top</a>
 
 </body>
 </html>
