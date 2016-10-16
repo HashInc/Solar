@@ -43,7 +43,7 @@ Team TAIYO ZEN has twenty five engineers with  the goal to  build and  race  a s
                             </div>
                         </div>
                         <div class="block-title">
-                            <p>Genesis</p>
+                            <p>Development</p>
                         </div>
                         <div class="block-content">
                             <p>Won the <strong>Indi-Asian Solar Challenge</strong> championship.
@@ -64,7 +64,7 @@ Team TAIYO ZEN has twenty five engineers with  the goal to  build and  race  a s
                             </div>
                         </div>
                         <div class="block-title">
-                            <p>Year : 2016</p>
+                            <p>Growth</p>
                         </div>
                         <div class="block-content">
                             <p>Won the championship for ELECTRA by SAE India.
@@ -85,7 +85,7 @@ Team TAIYO ZEN has twenty five engineers with  the goal to  build and  race  a s
                             </div>
                         </div>
                         <div class="block-title">
-                            <p>Development</p>
+                            <p></p>
                         </div>
                         <div class="block-content">
                             <p>Runners up-Endurance at Indo-Asian Solar Challenge.
