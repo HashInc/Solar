@@ -107,7 +107,7 @@ Team TAIYO ZEN has twenty five engineers with  the goal to  build and  race  a s
 Today, Hindustan Institute of Technology and Science is one of the most sought after engineering Institutions in Tamil Nadu, reputed for its highly qualified and experienced faculty and excellent infrastructural facilities,
 Also Hindustan University is the first Institute in India to have a degree course in motorsports and have its own motorports club.
 </p>
-                    <a href="blog.html" class="outline-button button mt-blue">Read More</a>
+                    <a href="blog.php" class="outline-button button mt-blue">Read More</a>
                 </div>
                 <div class="col-md-6 text-center animateIn" data-animate="bounceInLeft">
                     <img src="images/imac.png" alt="">
